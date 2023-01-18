@@ -4,8 +4,8 @@
 // функции, аргументы и параметры.
 // Запишите имена в соответсвующие пункты
 // Переменные:years,myDog,guests
-// Функции:
-// Встроенные функции:
+// Функции:dogYears,makeTea,secret
+// Встроенные функции:length,substr,substring,slice
 // Аргументы:dogYears,makeTea,secret
 // Параметры:myDog, 4; dogname, age
 // function dogYears(dogname, age){
