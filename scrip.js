@@ -53,11 +53,11 @@ console.log(name.indexOf ('люблю'));*/
 // троеточие '...'. В противном случае в переменную 
 // result запишем содержимое переменной txt.
 
-// let txt = "привет";
-//  let  n = 6;
+// let txt = "прошлое";
+//  let  n = 4;
 //  let result = 0;
 // if(n<txt.length){
-//  result = txt.substr(0,6)
+//  result = txt.substr(0,4)
 //  console.log(result + '...')
 //  }else {
 //      result=txt;
